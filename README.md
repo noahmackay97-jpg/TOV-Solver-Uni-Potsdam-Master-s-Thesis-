@@ -1,1 +1,3 @@
 This is a Tolman-Oppenheimer-Volkoff (TOV) code that solves the mass and pressure gradients for a neutron star under piecewise and simple polytrope equations of state (EoS's), as well as a tabulated version of the polytrope EoS's to demonstrate the ability to evaluate tabulated EoS's. The focus of the master thesis is tidal deformability and how the slow-spin limit affects the static solution. Thus, slow-spin Hartle-Thorne equations are also solved, along with additional tidal ODEs essential to these spin-induced corrections.
+
+Also included are Mathematica notebook files that show the analytical computation of Love numbers associated to any metric perturbation function, and a revised notebook that is originally a supplement to arXiv:1509.02171
